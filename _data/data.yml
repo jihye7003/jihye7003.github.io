@@ -7,126 +7,87 @@ sidebar:
     education: True # set to False if you want education in main section instead of in sidebar
 
     # Profile information
-    name: Alan Doe
-    tagline: Full Stack Developer
+    name: 김지혜
+    tagline: 백엔드를 더 좋아하는 웹서비스 개발자
     avatar: profile.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
     # Sidebar links
-    email: hello@webjeda.com
-    phone: 012 345 6789
-    timezone: America/Cancun Timezone
-    citizenship:
-    website: blog.webjeda.com #do not add http://
-    linkedin: alandoe
-    xing: alandoe
-    github: sharu725
-    telegram: # add your nickname without '@' sign
-    gitlab:
-    bitbucket:
-    twitter: '@webjeda'
-    stack-overflow: # Number/Username, e.g. 123456/alandoe
-    codewars:
-    goodreads: # Number-Username, e.g. 123456-alandoe
-    pdf: http://www.africau.edu/images/default/sample.pdf
+    email: jihye7003@naver.com
+    phone: 010-9257-8987
+#     timezone: America/Cancun Timezone
+#     citizenship:
+    website: kikikimoong.tistory.com #do not add http://
+#     linkedin: alandoe
+#     xing: alandoe
+    github: jihye7003
+#     telegram: # add your nickname without '@' sign
+#     gitlab:
+#     bitbucket:
+#     twitter: '@webjeda'
+#     stack-overflow: # Number/Username, e.g. 123456/alandoe
+#     codewars:
+#     goodreads: # Number-Username, e.g. 123456-alandoe
+    pdf: https://v2.convertapi.com/d/4ngjr3ztdsi0r0c04hkgtkm4nnfpg7az/jihye7003-github-io.pdf
 
-    languages:
-      title: Languages
-      info:
-        - idiom: English
-          level: Native
+#     languages:
+#       title: Languages
+#       info:
+#         - idiom: English
+#           level: Native
 
-        - idiom: French
-          level: Professional
+#         - idiom: French
+#           level: Professional
 
-        - idiom: Spanish
-          level: Professional
+#         - idiom: Spanish
+#           level: Professional
 
-    interests:
-      title: Interests
-      info:
-        - item: Climbing
-          link:
+#     interests:
+#       title: 취미
+#       info:
+#         - item: Climbing
+#           link:
 
-        - item: Snowboarding
-          link:
+#         - item: Snowboarding
+#           link:
 
-        - item: Cooking
-          link:
+#         - item: Cooking
+#           link:
 
 career-profile:
-    title: Career Profile
+    title: 소개
     summary: |
-      Summarise your career here lorem ipsum dolor sit amet, consectetuer
-      adipiscing elit. You can [download this free resume/CV template here]().
-      Aenean commodo ligula eget dolor aenean massa. Cum sociis natoque
-      penatibus et magnis dis parturient montes, nascetur ridiculus mus.
-      Donec quam felis, ultricies nec, pellentesque eu.
-      Second paragraph if required.
+      백엔드 개발을 더 좋아하는 웹서비스 개발자 김지혜 입니다. 빠르게 변화중인 웹서비스 개발 환경에 뒤쳐지지 않도록 노력하고 있으며, 취업을 준비중에 있습니다.
 education:
-    title: Education
+    title: 교육
     info:
-      - degree: MSc in Computer Science
-        university: University of London
-        time: 2011 - 2012
+      - degree: 컴퓨터공학 학사
+        university: 동국대학교
+        time: 2011 - 2016
         details: |
-          Describe your study here lorem ipsum dolor sit amet, consectetuer
-          adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
-          sociis natoque penatibus et magnis dis parturient montes, nascetur
-          ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
-          pretium quis, sem.
-            - Bullet point
-            - Bullet point
-      - degree: BSc in Applied Mathematics
-        university: Bristol University
-        time: 2007 - 2011
+          (TODO: 전공관련 작성)
+      - degree: 경주여자정보고등학교
+        university: 인터넷정보과
+        time: 2008 - 2011
         details: |
-          Describe your study here lorem ipsum dolor sit amet, consectetuer
-          adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
-          sociis natoque penatibus et magnis dis parturient montes, nascetur
-          ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
-          pretium quis, sem.
-            - Bullet point
-            - Bullet point
+          (TODO: 개발, 서비스, ui등 내용 작성)
 experiences:
-    title: Experiences
+    title: 경력
     info:
-      - role: Lead Developer
-        time: 2015 - Present
-        company: Startup Hubs, San Francisco
+      - role: Softwear Engineer
+        time: 2015 - 202
+        company: (주)리젠컴퍼니
         details: |
-          Describe your role here lorem ipsum dolor sit amet, consectetuer
-          adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-          Cum sociis natoque penatibus et magnis dis parturient montes,
-          nascetur ridiculus mus. Donec quam felis, ultricies nec,
-          pellentesque eu, pretium quis, sem. Nulla consequat massa quis
-          enim. Donec pede justo. Sed ut perspiciatis unde omnis iste natus
-          error sit voluptatem accusantium doloremque laudantium, totam rem
-          aperiam, eaque ipsa quae ab illo inventore veritatis et quasi
-          architecto beatae vitae dicta sunt explicabo.
-            - Bullet point
-            - Bullet point
-      - role: Senior Software Engineer
+          (TODO: LG전자 베스트샵 개발 관련 내용 작성)
+      - role: Founder
         time: 2014 - 2015
-        company: Google, London
+        company: 일구구이
         details: |
-          Describe your role here lorem ipsum dolor sit amet, consectetuer
-          adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-          Cum sociis natoque penatibus et magnis dis parturient montes,
-          nascetur ridiculus mus. Donec quam felis, ultricies nec,
-          pellentesque eu, pretium quis, sem.
-            - Bullet point
-            - Bullet point
+          (TODO: 웹서비스 개발 vuejs, flutter 관련 내용 작성)
       - role: UI Developer
         time: 2012 - 2014
-        company: Amazon, London
+        company: (주)비엠시스솔루션
         details: |
-          Describe your role here lorem ipsum dolor sit amet, consectetuer
-          adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-          Cum sociis natoque penatibus et magnis dis parturient montes,
-          nascetur ridiculus mus. Donec quam felis, ultricies nec,
-          pellentesque eu, pretium quis, sem.
-            - Bullet point
-            - Bullet point
+          (TODO: 작성)
 projects:
     title: Projects
     intro: >
@@ -180,22 +141,19 @@ skills:
     title: Skills &amp; Proficiency
 
     toolset:
-      - name: Python & Django
-        level: 98%
+      - name: JAVA & Spring & SpringBoot
+        level: 80%
 
-      - name: Javascript & jQuery
-        level: 98%
-
-      - name: Angular
+      - name: Javascript & Vue.Js & React.Js
         level: 98%
 
       - name: HTML5 & CSS
         level: 95%
 
-      - name: Ruby on Rails
-        level: 85%
+      - name: SQL
+        level: 90%
 
-      - name: Sketch & Photoshop
+      - name: Redis
         level: 60%
 
 footer: >
