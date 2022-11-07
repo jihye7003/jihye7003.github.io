@@ -2,7 +2,8 @@
 
 # Site Settings
 title: My Resume
-url: 'http://webjeda.com'
+# url: 'http://webjeda.com'
+url: 'https://jihye7003.github.io'
 
 #change it according to your repository name
 # disabling since we are using a custom domain
