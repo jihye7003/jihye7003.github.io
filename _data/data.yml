@@ -72,20 +72,20 @@ experiences:
     title: 경력
     info:
       - role: Softwear Engineer
-        time: 2015 - 202
+        time: 2017.07 - 2018.11
         company: (주)리젠컴퍼니
         details: |
           (TODO: LG전자 베스트샵 개발 관련 내용 작성)
+      - role: 프리랜서
+        time: 2020.04 - 2020.05
+        company: (주)비엠시스솔루션
+        details: |
+          대표 페이지 리뉴얼 프리랜서로 참여
       - role: Founder
         time: 2021 - 2021
         company: 일구구이
         details: |
           Flutter를 통한 커뮤니티 앱서비스 구현 및 Vuejs를 사용 static한 웹서비스 안내 페이지 개발
-      - role: 프리랜서
-        time: 2012 - 2014
-        company: (주)비엠시스솔루션
-        details: |
-          대표 페이지 리뉴얼 프리랜서로 참여
 projects:
     title: 프로젝트
 #     intro: >
