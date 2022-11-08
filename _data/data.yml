@@ -3,31 +3,31 @@
 #
 
 sidebar:
-    about: True # set to False or comment line if you want to remove the "how to use?" in the sidebar
-    education: True # set to False if you want education in main section instead of in sidebar
+  about: True # set to False or comment line if you want to remove the "how to use?" in the sidebar
+  education: True # set to False if you want education in main section instead of in sidebar
 
-    # Profile information
-    name: 김지혜
-    tagline: 백엔드를 더 좋아하는 웹서비스 개발자
-    avatar: profile.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
+  # Profile information
+  name: 김지혜
+  tagline: 백엔드를 더 좋아하는 웹서비스 개발자
+  avatar: profile.png #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
-    # Sidebar links
-    email: jihye7003@naver.com
-    phone: 010-9257-8987
-#     timezone: America/Cancun Timezone
-#     citizenship:
-    website: kikikimoong.tistory.com #do not add http://
-#     linkedin: alandoe
-#     xing: alandoe
-    github: jihye7003
-#     telegram: # add your nickname without '@' sign
-#     gitlab:
-#     bitbucket:
-#     twitter: '@webjeda'
-#     stack-overflow: # Number/Username, e.g. 123456/alandoe
-#     codewars:
-#     goodreads: # Number-Username, e.g. 123456-alandoe
-    pdf: https://v2.convertapi.com/d/4ngjr3ztdsi0r0c04hkgtkm4nnfpg7az/jihye7003-github-io.pdf
+  # Sidebar links
+  email: jihye7003@naver.com
+  phone: 010-9257-8987
+  #     timezone: America/Cancun Timezone
+  #     citizenship:
+  website: kikikimoong.tistory.com #do not add http://
+  #     linkedin: alandoe
+  #     xing: alandoe
+  github: jihye7003
+  #     telegram: # add your nickname without '@' sign
+  #     gitlab:
+  #     bitbucket:
+  #     twitter: '@webjeda'
+  #     stack-overflow: # Number/Username, e.g. 123456/alandoe
+  #     codewars:
+  #     goodreads: # Number-Username, e.g. 123456-alandoe
+  pdf: https://v2.convertapi.com/d/4ngjr3ztdsi0r0c04hkgtkm4nnfpg7az/jihye7003-github-io.pdf
 
 #     languages:
 #       title: Languages
@@ -54,83 +54,82 @@ sidebar:
 #           link:
 
 career-profile:
-    title: 소개
-    summary: |
-      백엔드 개발을 더 좋아하는 웹서비스 개발자 김지혜 입니다. 빠르게 변화중인 웹서비스 개발 환경에 뒤쳐지지 않도록 노력하고 있으며 백엔드 언어는 Java에 Spring Framework를 주로 다루고 최근 프론트엔드는 Vue.js를 학습하고 있습니다.
+  title: 소개
+  summary: |
+    백엔드 개발을 더 좋아하는 웹서비스 개발자 김지혜 입니다. 빠르게 변화중인 웹서비스 개발 환경에 뒤쳐지지 않도록 노력하고 있으며 백엔드 언어는 Java에 Spring Framework를 주로 다루고 최근 프론트엔드는 Vue.js를 학습하고 있습니다.
 education:
-    title: 교육
-    info:
-      - degree: 컴퓨터공학 학사
-        university: 동국대학교
-        time: 2011 - 2016
-#         details: |
-      - degree: 경주여자정보고등학교
-        university: 인터넷정보과
-        time: 2008 - 2011
+  title: 교육
+  info:
+    - degree: 컴퓨터공학 학사
+      university: 동국대학교
+      time: 2011 - 2016
+    #         details: |
+    - degree: 경주여자정보고등학교
+      university: 인터넷정보과
+      time: 2008 - 2011
 #         details: |
 experiences:
-    title: 경력
-    info:
-      - role: Softwear Engineer
-        time: 2017.07 - 2018.11
-        company: (주)리젠컴퍼니
-        details: |
-          (TODO: LG전자 베스트샵 개발 관련 내용 작성)
-      - role: 프리랜서
-        time: 2020.04 - 2020.05
-        company: (주)비엠시스솔루션
-        details: |
-          대표 페이지 리뉴얼 프리랜서로 참여
-      - role: Founder
-        time: 2021 - 2021
-        company: 일구구이
-        details: |
-          Flutter를 통한 커뮤니티 앱서비스 구현 및 Vuejs를 사용 static한 웹서비스 안내 페이지 개발
+  title: 경력
+  info:
+    - role: Softwear Engineer
+      time: 2017.07 - 2018.11
+      company: (주)리젠컴퍼니
+      details: |
+        (TODO: LG전자 베스트샵 개발 관련 내용 작성)
+    - role: 프리랜서
+      time: 2020.04 - 2020.05
+      company: (주)비엠시스솔루션
+      details: |
+        대표 페이지 리뉴얼 프리랜서로 참여
+    - role: Founder
+      time: 2021 - 2021
+      company: 일구구이
+      details: |
+        Flutter를 통한 커뮤니티 앱서비스 구현 및 Vuejs를 사용 static한 웹서비스 안내 페이지 개발
 projects:
-    title: 프로젝트
-#     intro: >
-#       You can list your side projects or open source libraries in this
-#       section. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-#       Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
-    assignments:
-      - title: LG전자(V30) 기프트팩 서비스
-        link: "#"
-        tagline: |
+  title: 프로젝트
+  #     intro: >
+  #       You can list your side projects or open source libraries in this
+  #       section. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+  #       Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
+  assignments:
+    - title: LG전자(V30) 기프트팩 서비스
+      link: "#"
+      tagline: |
         Q&A 질문게시판
         기프트팩에 관련된 질문, 사용자가 질문 등록및 수정
         JAVA, DevOn Framework, Oracle, JavaScript, JSP
 
-      - title: LG베스트샵 리뉴얼 프로젝트
-        link: "#"
-        tagline: |
+    - title: LG베스트샵 리뉴얼 프로젝트
+      link: "#"
+      tagline: |
         매장찾기(지도API), 상담신청(문자, 메일발송)
         네이버 지도API 연동으로 매장찾기, 사용자가 상담신청시 문자 및 메일 발송
         JAVA, DevOn Framework, Oracle, JavaScript, JSP
 
-      - title: LG전자 사내 운영툴 프로젝트
-        link: "#"
-        tagline: |
+    - title: LG전자 사내 운영툴 프로젝트
+      link: "#"
+      tagline: |
         권한에 따른 메일 발송
         사용자가 권한에 따라 메일
         JAVA, DevOn FrameWork, Oracle, JavaScript, JS
 
-      - title: LG전자 Mobile 리뉴얼
-        link: "#"
-        tagline: |
+    - title: LG전자 Mobile 리뉴얼
+      link: "#"
+      tagline: |
         모바일 제품 등록 및 수정(어드민)
         모바일 신제품 출시시 제품 등록 및 수정
         JAVA, DevOn FrameWork, Oracle, JSP
 
-      - title: LG전자 대표사이트 운영
-        link: "#"
-        tagline: |
+    - title: LG전자 대표사이트 운영
+      link: "#"
+      tagline: |
         LG전자 렌탈&케어, LG전자 어드민 유지보수
         JAVA, DevOn FrameWork, Oracle, JSP
 
-
-      - title: 대표 사이트 리뉴얼
-        link: "#"
-        tagline: |
+    - title: 대표 사이트 리뉴얼
+      link: "#"
+      tagline: |
         비엠시스 대표 사이트 리뉴얼 개발 참여
         VanillaJS, HTML, CSS, CMS 연동, Kakao API 연동
 
@@ -157,26 +156,26 @@ projects:
 #         conference: "Comm. ACM 4 (1961), 51–55"
 
 skills:
-    title: 보유기술
+  title: 보유기술
 
-    toolset:
-      - name: JAVA & Spring & SpringBoot
-        level: 80%
+  toolset:
+    - name: JAVA & Spring & SpringBoot
+      level: 80%
 
-      - name: Javascript & Vue.Js & React.Js
-        level: 75%
+    - name: Javascript & Vue.Js & React.Js
+      level: 75%
 
-      - name: HTML5 & CSS
-        level: 75%
+    - name: HTML5 & CSS
+      level: 75%
 
-      - name: SQL
-        level: 80%
+    - name: SQL
+      level: 80%
 
-      - name: Redis
-        level: 60%
+    - name: Redis
+      level: 60%
 
-      - name: Git & Svn
-        level: 90%
+    - name: Git & Svn
+      level: 90%
 
 footer: >
-    Designed with <i class="fas fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>
+  Designed with <i class="fas fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>
